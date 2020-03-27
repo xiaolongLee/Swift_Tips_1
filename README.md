@@ -1,0 +1,2 @@
+# Swift_Tips_1
+swift获取View所在ViewController的控制器对象
